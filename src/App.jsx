@@ -54,7 +54,7 @@ export default function App() {
         closeOnClick
         pauseOnHover
       />
-      <h1 className="grocery-heading">🛒 Grocery Reminder</h1>
+      <h1 className="grocery-heading">🛒 Grocery List</h1>
 
       <Tabs activeTab={activeTab} setActiveTab={setActiveTab} />
 
