@@ -1,0 +1,23 @@
+.to-buy-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.to-buy-list h2 {
+  font-size: 20px;
+  color: #1565c0;
+  margin-bottom: 10px;
+}
+
+.to-buy-list p {
+  color: #555;
+  text-align: center;
+  font-size: 14px;
+}
+
+.item-count {
+  font-size: 14px;
+  color: #1565c0;
+  font-weight: 500;
+}
